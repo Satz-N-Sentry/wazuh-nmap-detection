@@ -62,3 +62,6 @@ systemctl restart wazuh-manager
 ## Full Case Study
 Read the complete step-by-step guide on Medium.
 
+## Tags
+`Wazuh` `SIEM` `Nmap` `BlueTeam` `SOC` `iptables` `Linux` `CyberSecurity`
+
