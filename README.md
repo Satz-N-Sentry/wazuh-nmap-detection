@@ -50,14 +50,21 @@ systemctl restart wazuh-manager
 ### iptables PORTSCAN Rule Active
 ![iptables](screenshots/01_iptables_rule.png)
 
+### Wazuh Agent Status
+![agent](screenshots/02_Agent_status.png)
+
 ### Wazuh Logtest - Rule 100100 Firing at Level 15
 ![logtest](screenshots/03_logtest_output.png)
 
+### Nmap Scan from BlackArch
+![nmap](screenshots/04_nmap_scan.png)
+
 ### Live Alert Captured in alerts.log
-![alert](screenshots/05_live_alert.png)
+![alert](screenshots/05_Live_alert.png)
 
 ### Wazuh Dashboard - Security Events
 ![dashboard](screenshots/06_dashboard.png)
+```
 
 ## Full Case Study
 Read the complete step-by-step guide on Medium.
